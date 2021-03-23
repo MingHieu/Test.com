@@ -1,0 +1,26 @@
+@media only screen and (max-width:1200px) {}
+@media only screen and (max-width:1023px) {}
+@media only screen and (max-width:767px) {
+#btn{
+        transform:scale(2) translate(160%,100%);
+}
+p{
+    font-size:10px;
+}
+h1{
+    font-size:25px;
+    transform:translate(35%,150%);
+}
+}
+@media only screen and (max-width:480px) {
+    #btn{
+        transform:scale(1.5) translate(130%,100%);   
+    }
+    p{
+        transform:scale(1) translate(-30%,500%);
+    }
+    h1{
+        font-size:25px;
+        transform:translate(25%,150%);
+    }
+}	
