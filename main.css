@@ -2,7 +2,8 @@
     transform:scale(2) translate(275%,100%);
     box-shadow: 3px 3px 2px black;
 }
-#btn:hover{
+#btn:hover,
+#btn:active{
     color:red;
 }
 p{
