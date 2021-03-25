@@ -1,11 +1,11 @@
-#no,#yes{
+#btn-1,#btn-2{
     box-shadow: 1px 1px 2px black;
     margin:0 20px;
     transform:scale(1.4);   
 }
-#yes:hover,
-#yes:active,#no:hover,
-#no:active{
+#btn-1:hover,
+#btn-1:active,#btn-2:hover,
+#btn-2:active{
     color:red;
 }
 p{
